@@ -1,0 +1,35 @@
+# Privacy Policy
+
+This privacy policy governs the use of the mobile application "Book A Tuk" ("Application") for mobile devices.
+
+## Information We Collect
+
+The Application collects the following information:
+
+- **Booking Information:** When you use the booking feature, the Application collects your name, pickup place, drop place, date and time, number of people, and the purpose of the drive.
+
+## How We Use Information
+
+The collected booking information is used solely for the purpose of facilitating the transportation service. We do not share, sell, or otherwise disclose this information to third parties.
+
+## Automatically Collected Information
+
+The Application may collect certain information automatically, including the type of mobile device you use, your mobile device's unique device ID, the IP address of your mobile device, your mobile operating system, and information about the way you use the Application.
+
+## Third-Party Services
+
+The Application may use third-party services, such as WhatsApp for communication purposes. Please review the privacy policies of these services for information on how they handle your data.
+
+## Security
+
+We prioritize the security of your information. However, please be aware that no method of transmission over the internet or electronic storage is 100% secure.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+## Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [bookatuk@gmail.com](mailto:bookatuk@gmail.com) or +94 76 611 1884.
+
+Date: 12/26/2023
